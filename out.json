@@ -1,0 +1,610 @@
+{"name": "root","size": 7158127,"pct": 100.000000,"children": [
+{"name": "root/RO Data","size": 262803,"pct": 3.671393,"children": [
+{"name": "root/RO Data/hnnx::","size": 15939,"pct": 0.222670,"children": [
+{"name": "root/RO Data/hnnx::/tile_u8_pack_down_controls","size": 7936,"pct": 0.110867,"children": [
+]}
+]},
+{"name": "root/RO Data/TYPENAME:","size": 154515,"pct": 2.158595,"children": [
+{"name": "root/RO Data/TYPENAME:/PlacementOp<...>","size": 9916,"pct": 0.138528,"children": [
+]},
+{"name": "root/RO Data/TYPENAME:/hnnx::","size": 136331,"pct": 1.904562,"children": [
+{"name": "root/RO Data/TYPENAME:/hnnx::/PackageOpStorageDerived<...>","size": 49440,"pct": 0.690683,"children": [
+]},
+{"name": "root/RO Data/TYPENAME:/hnnx::/GenerateClass<...>","size": 47634,"pct": 0.665453,"children": [
+]},
+{"name": "root/RO Data/TYPENAME:/hnnx::/TypicalOp<...>","size": 37962,"pct": 0.530334,"children": [
+]}
+]}
+]}
+]},
+{"name": "root/Weak","size": 4234592,"pct": 59.157822,"children": [
+{"name": "root/Weak/GraphStatus non_max_suppression_impl_fast<...>","size": 16056,"pct": 0.224304,"children": [
+{"name": "root/Weak/GraphStatus non_max_suppression_impl_fast<...>/(...)","size": 16056,"pct": 0.224304,"children": [
+]}
+]},
+{"name": "root/Weak/int reduce_impl<...>","size": 18312,"pct": 0.255821,"children": [
+{"name": "root/Weak/int reduce_impl<...>/(...)","size": 18312,"pct": 0.255821,"children": [
+]}
+]},
+{"name": "root/Weak/Tensor* hnnx::","size": 13984,"pct": 0.195358,"children": [
+{"name": "root/Weak/Tensor* hnnx::/Crate::","size": 13984,"pct": 0.195358,"children": [
+{"name": "root/Weak/Tensor* hnnx::/Crate::/emplace<...>","size": 13984,"pct": 0.195358,"children": [
+{"name": "root/Weak/Tensor* hnnx::/Crate::/emplace<...>/(...)","size": 13984,"pct": 0.195358,"children": [
+]}
+]}
+]}
+]},
+{"name": "root/Weak/int concat_va_impl<...>","size": 20540,"pct": 0.286947,"children": [
+{"name": "root/Weak/int concat_va_impl<...>/(...)","size": 20540,"pct": 0.286947,"children": [
+]}
+]},
+{"name": "root/Weak/unsigned int std::","size": 15520,"pct": 0.216816,"children": [
+{"name": "root/Weak/unsigned int std::/__1::","size": 15520,"pct": 0.216816,"children": [
+]}
+]},
+{"name": "root/Weak/void elementwise_by_tile<...>","size": 8508,"pct": 0.118858,"children": [
+{"name": "root/Weak/void elementwise_by_tile<...>/(...)","size": 8508,"pct": 0.118858,"children": [
+]}
+]},
+{"name": "root/Weak/int avgpool_pad_impl<...>","size": 12056,"pct": 0.168424,"children": [
+{"name": "root/Weak/int avgpool_pad_impl<...>/(...)","size": 12056,"pct": 0.168424,"children": [
+]}
+]},
+{"name": "root/Weak/int depth_to_space_ref_impl<...>","size": 8608,"pct": 0.120255,"children": [
+{"name": "root/Weak/int depth_to_space_ref_impl<...>/(...)","size": 8608,"pct": 0.120255,"children": [
+]}
+]},
+{"name": "root/Weak/TYPENAME:","size": 728519,"pct": 10.177509,"children": [
+{"name": "root/Weak/TYPENAME:/std::","size": 213857,"pct": 2.987611,"children": [
+{"name": "root/Weak/TYPENAME:/std::/__1::","size": 213857,"pct": 2.987611,"children": [
+{"name": "root/Weak/TYPENAME:/std::/__1::/__function::","size": 115715,"pct": 1.616554,"children": [
+{"name": "root/Weak/TYPENAME:/std::/__1::/__function::/__func<...>","size": 114796,"pct": 1.603716,"children": [
+{"name": "root/Weak/TYPENAME:/std::/__1::/__function::/__func<...>/__func<std::__1::function<bool (constraint_lib::Constraint const&)> oExp::wrap_as_function<bool, oExp::expr<(oExp::Variant)4, std::__1::tuple<oExp::expr<(oExp::Variant)2, std::__1::tuple<oExp::expr<(oExp::Variant)8, std::__1::tuple<oExp::opexpr<(oExp::OpVn","size": 35305,"pct": 0.493216,"children": [
+]},
+{"name": "root/Weak/TYPENAME:/std::/__1::/__function::/__func<...>/__func<std::__1::function<bool (constraint_lib::Constraint const&)> oExp::wrap_as_function<bool, oExp::expr<(oExp::Variant)4, std::__1::tuple<oExp::expr<(oExp::Variant)3, std::__1::tuple<oExp::expr<(oExp::Variant)2, std::__1::tuple<oExp::expr<(oExp::Varian","size": 8554,"pct": 0.119501,"children": [
+]}
+]}
+]},
+{"name": "root/Weak/TYPENAME:/std::/__1::/function<...>","size": 97998,"pct": 1.369045,"children": [
+{"name": "root/Weak/TYPENAME:/std::/__1::/function<...>/ oExp::","size": 90776,"pct": 1.268153,"children": [
+{"name": "root/Weak/TYPENAME:/std::/__1::/function<...>/ oExp::/wrap_as_function<...>","size": 90465,"pct": 1.263808,"children": [
+{"name": "root/Weak/TYPENAME:/std::/__1::/function<...>/ oExp::/wrap_as_function<...>/(...)","size": 90465,"pct": 1.263808,"children": [
+{"name": "root/Weak/TYPENAME:/std::/__1::/function<...>/ oExp::/wrap_as_function<...>/(...)/::","size": 90465,"pct": 1.263808,"children": [
+{"name": "root/Weak/TYPENAME:/std::/__1::/function<...>/ oExp::/wrap_as_function<...>/(...)/::/'lambda'(...)","size": 90465,"pct": 1.263808,"children": [
+{"name": "root/Weak/TYPENAME:/std::/__1::/function<...>/ oExp::/wrap_as_function<...>/(...)/::/'lambda'(...)/function<int (constraint_lib::Constraint const&)>","size": 15271,"pct": 0.213338,"children": [
+]},
+{"name": "root/Weak/TYPENAME:/std::/__1::/function<...>/ oExp::/wrap_as_function<...>/(...)/::/'lambda'(...)/function<bool (constraint_lib::Constraint const&)>","size": 59524,"pct": 0.831558,"children": [
+{"name": "root/Weak/TYPENAME:/std::/__1::/function<...>/ oExp::/wrap_as_function<...>/(...)/::/'lambda'(...)/function<bool (constraint_lib::Constraint const&)>/wrap_as_function<bool, oExp::expr<(oExp::Variant)4, std::__1::tuple<oExp::expr<(oExp::Variant)2, std::__1::tuple<oExp::expr<(oExp::Variant)8, std::__1::tuple<oExp::opexpr<(oExp::OpVnt)0, void>, oExp::property_extract_dtype> >, oExp::expr<(oExp::Variant)0, ","size": 14080,"pct": 0.196699,"children": [
+{"name": "root/Weak/TYPENAME:/std::/__1::/function<...>/ oExp::/wrap_as_function<...>/(...)/::/'lambda'(...)/function<bool (constraint_lib::Constraint const&)>/wrap_as_function<bool, oExp::expr<(oExp::Variant)4, std::__1::tuple<oExp::expr<(oExp::Variant)2, std::__1::tuple<oExp::expr<(oExp::Variant)8, std::__1::tuple<oExp::opexpr<(oExp::OpVnt)0, void>, oExp::property_extract_dtype> >, oExp::expr<(oExp::Variant)0, /(oExp::expr<(oExp::Variant)4, std::__1::tuple<oExp::expr<(oExp::Variant)2, std::__1::tuple<oExp::expr<(oExp::Variant)8, std::__1::tuple<oExp::opexpr<(oExp::OpVnt)0, void>, oExp::property_extract_dtype> >, oExp::expr<(oExp::Variant)0, DType>, std::__1::equa","size": 14080,"pct": 0.196699,"children": [
+{"name": "root/Weak/TYPENAME:/std::/__1::/function<...>/ oExp::/wrap_as_function<...>/(...)/::/'lambda'(...)/function<bool (constraint_lib::Constraint const&)>/wrap_as_function<bool, oExp::expr<(oExp::Variant)4, std::__1::tuple<oExp::expr<(oExp::Variant)2, std::__1::tuple<oExp::expr<(oExp::Variant)8, std::__1::tuple<oExp::opexpr<(oExp::OpVnt)0, void>, oExp::property_extract_dtype> >, oExp::expr<(oExp::Variant)0, /(oExp::expr<(oExp::Variant)4, std::__1::tuple<oExp::expr<(oExp::Variant)2, std::__1::tuple<oExp::expr<(oExp::Variant)8, std::__1::tuple<oExp::opexpr<(oExp::OpVnt)0, void>, oExp::property_extract_dtype> >, oExp::expr<(oExp::Variant)0, DType>, std::__1::equa/'lambda'(constraint_lib::Constraint const&)","size": 14080,"pct": 0.196699,"children": [
+]}
+]}
+]},
+{"name": "root/Weak/TYPENAME:/std::/__1::/function<...>/ oExp::/wrap_as_function<...>/(...)/::/'lambda'(...)/function<bool (constraint_lib::Constraint const&)>/wrap_as_function<bool, oExp::expr<(oExp::Variant)4, std::__1::tuple<oExp::expr<(oExp::Variant)3, std::__1::tuple<oExp::expr<(oExp::Variant)2, std::__1::tuple<oExp::expr<(oExp::Variant)8, std::__1::tuple<oExp::opexpr<(oExp::OpVnt)0, void>, oExp::property_ex","size": 7254,"pct": 0.101339,"children": [
+{"name": "root/Weak/TYPENAME:/std::/__1::/function<...>/ oExp::/wrap_as_function<...>/(...)/::/'lambda'(...)/function<bool (constraint_lib::Constraint const&)>/wrap_as_function<bool, oExp::expr<(oExp::Variant)4, std::__1::tuple<oExp::expr<(oExp::Variant)3, std::__1::tuple<oExp::expr<(oExp::Variant)2, std::__1::tuple<oExp::expr<(oExp::Variant)8, std::__1::tuple<oExp::opexpr<(oExp::OpVnt)0, void>, oExp::property_ex/(oExp::expr<(oExp::Variant)4, std::__1::tuple<oExp::expr<(oExp::Variant)3, std::__1::tuple<oExp::expr<(oExp::Variant)2, std::__1::tuple<oExp::expr<(oExp::Variant)8, std::__1::tuple<oExp::opexpr<(oExp::OpVnt)0, void>, oExp::property_extract_dtype> >, oExp::","size": 7254,"pct": 0.101339,"children": [
+{"name": "root/Weak/TYPENAME:/std::/__1::/function<...>/ oExp::/wrap_as_function<...>/(...)/::/'lambda'(...)/function<bool (constraint_lib::Constraint const&)>/wrap_as_function<bool, oExp::expr<(oExp::Variant)4, std::__1::tuple<oExp::expr<(oExp::Variant)3, std::__1::tuple<oExp::expr<(oExp::Variant)2, std::__1::tuple<oExp::expr<(oExp::Variant)8, std::__1::tuple<oExp::opexpr<(oExp::OpVnt)0, void>, oExp::property_ex/(oExp::expr<(oExp::Variant)4, std::__1::tuple<oExp::expr<(oExp::Variant)3, std::__1::tuple<oExp::expr<(oExp::Variant)2, std::__1::tuple<oExp::expr<(oExp::Variant)8, std::__1::tuple<oExp::opexpr<(oExp::OpVnt)0, void>, oExp::property_extract_dtype> >, oExp::/'lambda'(constraint_lib::Constraint const&)","size": 7254,"pct": 0.101339,"children": [
+]}
+]}
+]},
+{"name": "root/Weak/TYPENAME:/std::/__1::/function<...>/ oExp::/wrap_as_function<...>/(...)/::/'lambda'(...)/function<bool (constraint_lib::Constraint const&)>/wrap_as_function<bool, oExp::expr<(oExp::Variant)4, std::__1::tuple<oExp::expr<(oExp::Variant)2, std::__1::tuple<oExp::expr<(oExp::Variant)8, std::__1::tuple<oExp::opexpr<(oExp::OpVnt)0, void>, oExp::dim_extractor<int> > >, oExp::expr<(oExp::Variant)0, int","size": 11250,"pct": 0.157164,"children": [
+{"name": "root/Weak/TYPENAME:/std::/__1::/function<...>/ oExp::/wrap_as_function<...>/(...)/::/'lambda'(...)/function<bool (constraint_lib::Constraint const&)>/wrap_as_function<bool, oExp::expr<(oExp::Variant)4, std::__1::tuple<oExp::expr<(oExp::Variant)2, std::__1::tuple<oExp::expr<(oExp::Variant)8, std::__1::tuple<oExp::opexpr<(oExp::OpVnt)0, void>, oExp::dim_extractor<int> > >, oExp::expr<(oExp::Variant)0, int/(oExp::expr<(oExp::Variant)4, std::__1::tuple<oExp::expr<(oExp::Variant)2, std::__1::tuple<oExp::expr<(oExp::Variant)8, std::__1::tuple<oExp::opexpr<(oExp::OpVnt)0, void>, oExp::dim_extractor<int> > >, oExp::expr<(oExp::Variant)0, int>, std::__1::equal_to<","size": 7971,"pct": 0.111356,"children": [
+{"name": "root/Weak/TYPENAME:/std::/__1::/function<...>/ oExp::/wrap_as_function<...>/(...)/::/'lambda'(...)/function<bool (constraint_lib::Constraint const&)>/wrap_as_function<bool, oExp::expr<(oExp::Variant)4, std::__1::tuple<oExp::expr<(oExp::Variant)2, std::__1::tuple<oExp::expr<(oExp::Variant)8, std::__1::tuple<oExp::opexpr<(oExp::OpVnt)0, void>, oExp::dim_extractor<int> > >, oExp::expr<(oExp::Variant)0, int/(oExp::expr<(oExp::Variant)4, std::__1::tuple<oExp::expr<(oExp::Variant)2, std::__1::tuple<oExp::expr<(oExp::Variant)8, std::__1::tuple<oExp::opexpr<(oExp::OpVnt)0, void>, oExp::dim_extractor<int> > >, oExp::expr<(oExp::Variant)0, int>, std::__1::equal_to</'lambda'(constraint_lib::Constraint const&)","size": 7971,"pct": 0.111356,"children": [
+]}
+]}
+]}
+]}
+]}
+]}
+]}
+]}
+]}
+]}
+]}
+]},
+{"name": "root/Weak/TYPENAME:/hnnx::","size": 502613,"pct": 7.021571,"children": [
+{"name": "root/Weak/TYPENAME:/hnnx::/PackageOpStorageDerived<...>","size": 154073,"pct": 2.152421,"children": [
+]},
+{"name": "root/Weak/TYPENAME:/hnnx::/TypicalOpIO<...>","size": 68022,"pct": 0.950277,"children": [
+]},
+{"name": "root/Weak/TYPENAME:/hnnx::/VariadicOp<...>","size": 8318,"pct": 0.116204,"children": [
+]},
+{"name": "root/Weak/TYPENAME:/hnnx::/GenerateClass<...>","size": 148151,"pct": 2.069689,"children": [
+]},
+{"name": "root/Weak/TYPENAME:/hnnx::/TypicalOp<...>","size": 117207,"pct": 1.637398,"children": [
+]}
+]},
+{"name": "root/Weak/TYPENAME:/PlacementOp<...>","size": 8197,"pct": 0.114513,"children": [
+]}
+]},
+{"name": "root/Weak/hnnx::","size": 1796080,"pct": 25.091480,"children": [
+{"name": "root/Weak/hnnx::/GenerateClass<...>","size": 277452,"pct": 3.876042,"children": [
+{"name": "root/Weak/hnnx::/GenerateClass<...>/::","size": 277452,"pct": 3.876042,"children": [
+{"name": "root/Weak/hnnx::/GenerateClass<...>/::/cost(...)","size": 88088,"pct": 1.230601,"children": [
+]},
+{"name": "root/Weak/hnnx::/GenerateClass<...>/::/valid_construct(...)","size": 118216,"pct": 1.651493,"children": [
+]},
+{"name": "root/Weak/hnnx::/GenerateClass<...>/::/generate(...)","size": 67760,"pct": 0.946616,"children": [
+]}
+]}
+]},
+{"name": "root/Weak/hnnx::/TypicalOpIO<...>","size": 209964,"pct": 2.933225,"children": [
+{"name": "root/Weak/hnnx::/TypicalOpIO<...>/::","size": 209964,"pct": 2.933225,"children": [
+{"name": "root/Weak/hnnx::/TypicalOpIO<...>/::/TypicalOpIO(...)","size": 128708,"pct": 1.798068,"children": [
+]},
+{"name": "root/Weak/hnnx::/TypicalOpIO<...>/::/prepare(...)","size": 52852,"pct": 0.738350,"children": [
+]},
+{"name": "root/Weak/hnnx::/TypicalOpIO<...>/::/valid_construction(...)","size": 23068,"pct": 0.322263,"children": [
+]}
+]}
+]},
+{"name": "root/Weak/hnnx::/GenerateBase<...>","size": 478032,"pct": 6.678172,"children": [
+{"name": "root/Weak/hnnx::/GenerateBase<...>/ const& hnnx::","size": 478028,"pct": 6.678116,"children": [
+{"name": "root/Weak/hnnx::/GenerateBase<...>/ const& hnnx::/make_op_custom<...>","size": 478028,"pct": 6.678116,"children": [
+{"name": "root/Weak/hnnx::/GenerateBase<...>/ const& hnnx::/make_op_custom<...>/(...)","size": 478028,"pct": 6.678116,"children": [
+{"name": "root/Weak/hnnx::/GenerateBase<...>/ const& hnnx::/make_op_custom<...>/(...)/GenerateBase<Op>","size": 478028,"pct": 6.678116,"children": [
+]}
+]}
+]}
+]}
+]},
+{"name": "root/Weak/hnnx::/VariadicOpIO<...>","size": 49892,"pct": 0.696998,"children": [
+{"name": "root/Weak/hnnx::/VariadicOpIO<...>/::","size": 49892,"pct": 0.696998,"children": [
+{"name": "root/Weak/hnnx::/VariadicOpIO<...>/::/VariadicOpIO(...)","size": 12392,"pct": 0.173118,"children": [
+]},
+{"name": "root/Weak/hnnx::/VariadicOpIO<...>/::/output_allocate(...)","size": 15108,"pct": 0.211061,"children": [
+]},
+{"name": "root/Weak/hnnx::/VariadicOpIO<...>/::/prepare(...)","size": 12964,"pct": 0.181109,"children": [
+]}
+]}
+]},
+{"name": "root/Weak/hnnx::/tileExt_priv::","size": 8596,"pct": 0.120087,"children": [
+]},
+{"name": "root/Weak/hnnx::/deserialize_op_using_constructor<...>","size": 102680,"pct": 1.434453,"children": [
+{"name": "root/Weak/hnnx::/deserialize_op_using_constructor<...>/::","size": 102680,"pct": 1.434453,"children": [
+{"name": "root/Weak/hnnx::/deserialize_op_using_constructor<...>/::/deserialize(...)","size": 102680,"pct": 1.434453,"children": [
+]}
+]}
+]},
+{"name": "root/Weak/hnnx::/TypicalOp<...>","size": 165360,"pct": 2.310102,"children": [
+{"name": "root/Weak/hnnx::/TypicalOp<...>/* hnnx::","size": 12648,"pct": 0.176694,"children": [
+{"name": "root/Weak/hnnx::/TypicalOp<...>/* hnnx::/Crate::","size": 12648,"pct": 0.176694,"children": [
+{"name": "root/Weak/hnnx::/TypicalOp<...>/* hnnx::/Crate::/emplace<...>","size": 12648,"pct": 0.176694,"children": [
+{"name": "root/Weak/hnnx::/TypicalOp<...>/* hnnx::/Crate::/emplace<...>/(...)","size": 12648,"pct": 0.176694,"children": [
+]}
+]}
+]}
+]},
+{"name": "root/Weak/hnnx::/TypicalOp<...>/::","size": 152712,"pct": 2.133407,"children": [
+{"name": "root/Weak/hnnx::/TypicalOp<...>/::/prepare(...)","size": 64668,"pct": 0.903421,"children": [
+]},
+{"name": "root/Weak/hnnx::/TypicalOp<...>/::/execute(...)","size": 28756,"pct": 0.401725,"children": [
+]},
+{"name": "root/Weak/hnnx::/TypicalOp<...>/::/~TypicalOp(...)","size": 59288,"pct": 0.828261,"children": [
+]}
+]}
+]},
+{"name": "root/Weak/hnnx::/VariadicOp<...>","size": 9592,"pct": 0.134002,"children": [
+{"name": "root/Weak/hnnx::/VariadicOp<...>/::","size": 9440,"pct": 0.131878,"children": [
+]}
+]},
+{"name": "root/Weak/hnnx::/PackageOpStorageDerived<...>","size": 454024,"pct": 6.342777,"children": [
+{"name": "root/Weak/hnnx::/PackageOpStorageDerived<...>/::","size": 454024,"pct": 6.342777,"children": [
+{"name": "root/Weak/hnnx::/PackageOpStorageDerived<...>/::/~PackageOpStorageDerived(...)","size": 84700,"pct": 1.183270,"children": [
+]},
+{"name": "root/Weak/hnnx::/PackageOpStorageDerived<...>/::/PackageOpStorageDerived(...)","size": 166044,"pct": 2.319657,"children": [
+]},
+{"name": "root/Weak/hnnx::/PackageOpStorageDerived<...>/::/make_op_wrapper(...)","size": 203280,"pct": 2.839849,"children": [
+]}
+]}
+]},
+{"name": "root/Weak/hnnx::/TypicalOpIoBase<...>","size": 12216,"pct": 0.170659,"children": [
+{"name": "root/Weak/hnnx::/TypicalOpIoBase<...>/::","size": 12216,"pct": 0.170659,"children": [
+]}
+]}
+]},
+{"name": "root/Weak/oExp::","size": 42040,"pct": 0.587304,"children": [
+{"name": "root/Weak/oExp::/expr<...>","size": 41976,"pct": 0.586410,"children": [
+{"name": "root/Weak/oExp::/expr<...>/::","size": 41976,"pct": 0.586410,"children": [
+{"name": "root/Weak/oExp::/expr<...>/::/eval(...)","size": 41976,"pct": 0.586410,"children": [
+]}
+]}
+]}
+]},
+{"name": "root/Weak/LayoutTensor<...>","size": 22520,"pct": 0.314607,"children": [
+{"name": "root/Weak/LayoutTensor<...>/::","size": 22520,"pct": 0.314607,"children": [
+]}
+]},
+{"name": "root/Weak/int x2s_bsw8<...>","size": 14528,"pct": 0.202958,"children": [
+{"name": "root/Weak/int x2s_bsw8<...>/(...)","size": 14528,"pct": 0.202958,"children": [
+]}
+]},
+{"name": "root/Weak/int compare_impl<...>","size": 8544,"pct": 0.119361,"children": [
+{"name": "root/Weak/int compare_impl<...>/(...)","size": 8544,"pct": 0.119361,"children": [
+]}
+]},
+{"name": "root/Weak/ConcreteTensor<...>","size": 132113,"pct": 1.845636,"children": [
+{"name": "root/Weak/ConcreteTensor<...>/::","size": 42509,"pct": 0.593856,"children": [
+{"name": "root/Weak/ConcreteTensor<...>/::/clone_util(...)","size": 10332,"pct": 0.144339,"children": [
+]},
+{"name": "root/Weak/ConcreteTensor<...>/::/ConcreteTensor(...)","size": 16856,"pct": 0.235481,"children": [
+]}
+]},
+{"name": "root/Weak/ConcreteTensor<...>/* hnnx::","size": 89532,"pct": 1.250774,"children": [
+{"name": "root/Weak/ConcreteTensor<...>/* hnnx::/Crate::","size": 89532,"pct": 1.250774,"children": [
+{"name": "root/Weak/ConcreteTensor<...>/* hnnx::/Crate::/emplace<...>","size": 89532,"pct": 1.250774,"children": [
+{"name": "root/Weak/ConcreteTensor<...>/* hnnx::/Crate::/emplace<...>/(...)","size": 89532,"pct": 1.250774,"children": [
+{"name": "root/Weak/ConcreteTensor<...>/* hnnx::/Crate::/emplace<...>/(...)/ConcreteTensor<Tdefs::QuantUint8>","size": 10784,"pct": 0.150654,"children": [
+]},
+{"name": "root/Weak/ConcreteTensor<...>/* hnnx::/Crate::/emplace<...>/(...)/ConcreteTensor<Tdefs::PlainFloat>","size": 9244,"pct": 0.129140,"children": [
+]},
+{"name": "root/Weak/ConcreteTensor<...>/* hnnx::/Crate::/emplace<...>/(...)/ConcreteTensor<Tdefs::QuantUint8_TCM>","size": 7284,"pct": 0.101758,"children": [
+]}
+]}
+]}
+]}
+]}
+]},
+{"name": "root/Weak/GraphStatus non_max_suppression_impl_reg<...>","size": 16568,"pct": 0.231457,"children": [
+{"name": "root/Weak/GraphStatus non_max_suppression_impl_reg<...>/(...)","size": 16568,"pct": 0.231457,"children": [
+]}
+]},
+{"name": "root/Weak/GraphStatus elementwise_impl<...>","size": 13508,"pct": 0.188709,"children": [
+{"name": "root/Weak/GraphStatus elementwise_impl<...>/(...)","size": 13508,"pct": 0.188709,"children": [
+]}
+]},
+{"name": "root/Weak/std::","size": 418460,"pct": 5.845943,"children": [
+{"name": "root/Weak/std::/__1::","size": 418276,"pct": 5.843372,"children": [
+{"name": "root/Weak/std::/__1::/vector<...>","size": 31548,"pct": 0.440730,"children": [
+{"name": "root/Weak/std::/__1::/vector<...>/::","size": 31548,"pct": 0.440730,"children": [
+{"name": "root/Weak/std::/__1::/vector<...>/::/__append(...)","size": 16640,"pct": 0.232463,"children": [
+]}
+]}
+]},
+{"name": "root/Weak/std::/__1::/function<...>","size": 127804,"pct": 1.785439,"children": [
+{"name": "root/Weak/std::/__1::/function<...>/ Replacement::","size": 94024,"pct": 1.313528,"children": [
+{"name": "root/Weak/std::/__1::/function<...>/ Replacement::/Op<...>","size": 74732,"pct": 1.044016,"children": [
+{"name": "root/Weak/std::/__1::/function<...>/ Replacement::/Op<...>/(...)","size": 74732,"pct": 1.044016,"children": [
+{"name": "root/Weak/std::/__1::/function<...>/ Replacement::/Op<...>/(...)/function<OpRef (Replacement&, OpDef const&)>","size": 74732,"pct": 1.044016,"children": [
+]}
+]}
+]},
+{"name": "root/Weak/std::/__1::/function<...>/ Replacement::/OpMultiOut<...>","size": 7512,"pct": 0.104944,"children": [
+{"name": "root/Weak/std::/__1::/function<...>/ Replacement::/OpMultiOut<...>/(...)","size": 7512,"pct": 0.104944,"children": [
+{"name": "root/Weak/std::/__1::/function<...>/ Replacement::/OpMultiOut<...>/(...)/function<OpRef (Replacement&, OpDef const&)>","size": 7512,"pct": 0.104944,"children": [
+]}
+]}
+]}
+]},
+{"name": "root/Weak/std::/__1::/function<...>/ gen_Shape<...>","size": 25600,"pct": 0.357635,"children": [
+{"name": "root/Weak/std::/__1::/function<...>/ gen_Shape<...>/(...)","size": 25600,"pct": 0.357635,"children": [
+{"name": "root/Weak/std::/__1::/function<...>/ gen_Shape<...>/(...)/function<OpRef (Replacement&, OpDef const&)>","size": 25600,"pct": 0.357635,"children": [
+]}
+]}
+]}
+]},
+{"name": "root/Weak/std::/__1::/unique_ptr<...>","size": 127960,"pct": 1.787618,"children": [
+{"name": "root/Weak/std::/__1::/unique_ptr<...>/ MatchBuilder::","size": 124788,"pct": 1.743305,"children": [
+{"name": "root/Weak/std::/__1::/unique_ptr<...>/ MatchBuilder::/Op<...>","size": 120476,"pct": 1.683066,"children": [
+{"name": "root/Weak/std::/__1::/unique_ptr<...>/ MatchBuilder::/Op<...>/(...)","size": 120476,"pct": 1.683066,"children": [
+{"name": "root/Weak/std::/__1::/unique_ptr<...>/ MatchBuilder::/Op<...>/(...)/unique_ptr<hnnx::MatchAstNode, std::__1::default_delete<hnnx::MatchAstNode> >","size": 120476,"pct": 1.683066,"children": [
+{"name": "root/Weak/std::/__1::/unique_ptr<...>/ MatchBuilder::/Op<...>/(...)/unique_ptr<hnnx::MatchAstNode, std::__1::default_delete<hnnx::MatchAstNode> >/Op<char const (&) [6], char const (&) [12], char const (&) [12], char const (&) [12], char const (&) [12], char const (&) [12], char const (&) [12], char const (&) [7], char const (&) [7], char const (&) [7], char const (&) [10], char const (&) [15], char ","size": 8284,"pct": 0.115729,"children": [
+{"name": "root/Weak/std::/__1::/unique_ptr<...>/ MatchBuilder::/Op<...>/(...)/unique_ptr<hnnx::MatchAstNode, std::__1::default_delete<hnnx::MatchAstNode> >/Op<char const (&) [6], char const (&) [12], char const (&) [12], char const (&) [12], char const (&) [12], char const (&) [12], char const (&) [12], char const (&) [7], char const (&) [7], char const (&) [7], char const (&) [10], char const (&) [15], char /(char const*, char const (&) [6], char const (&) [12], char const (&) [12], char const (&) [12], char const (&) [12], char const (&) [12], char const (&) [12], char const (&) [7], char const (&) [7], char const (&) [7], char const (&) [10], char const (&) ","size": 8284,"pct": 0.115729,"children": [
+]}
+]}
+]}
+]}
+]}
+]}
+]},
+{"name": "root/Weak/std::/__1::/pair<...>","size": 8808,"pct": 0.123049,"children": [
+{"name": "root/Weak/std::/__1::/pair<...>/ std::","size": 8560,"pct": 0.119584,"children": [
+{"name": "root/Weak/std::/__1::/pair<...>/ std::/__1::","size": 8560,"pct": 0.119584,"children": [
+]}
+]}
+]},
+{"name": "root/Weak/std::/__1::/__function::","size": 82676,"pct": 1.154995,"children": [
+{"name": "root/Weak/std::/__1::/__function::/__func<...>","size": 78732,"pct": 1.099897,"children": [
+{"name": "root/Weak/std::/__1::/__function::/__func<...>/::","size": 78732,"pct": 1.099897,"children": [
+{"name": "root/Weak/std::/__1::/__function::/__func<...>/::/__clone(...)","size": 35188,"pct": 0.491581,"children": [
+{"name": "root/Weak/std::/__1::/__function::/__func<...>/::/__clone(...)/__func<std::__1::function<bool (constraint_lib::Constraint const&)> oExp::wrap_as_function<bool, oExp::expr<(oExp::Variant)4, std::__1::tuple<oExp::expr<(oExp::Variant)2, std::__1::tuple<oExp::expr<(oExp::Variant)8, std::__1::tuple<oExp::opexpr<(oExp::OpVn","size": 8408,"pct": 0.117461,"children": [
+]}
+]},
+{"name": "root/Weak/std::/__1::/__function::/__func<...>/::/target(...)","size": 19268,"pct": 0.269177,"children": [
+]}
+]}
+]}
+]}
+]}
+]},
+{"name": "root/Weak/TYPEINFO:","size": 47156,"pct": 0.658776,"children": [
+{"name": "root/Weak/TYPEINFO:/hnnx::","size": 39352,"pct": 0.549753,"children": [
+{"name": "root/Weak/TYPEINFO:/hnnx::/PackageOpStorageDerived<...>","size": 10164,"pct": 0.141992,"children": [
+]},
+{"name": "root/Weak/TYPEINFO:/hnnx::/TypicalOpIO<...>","size": 8004,"pct": 0.111817,"children": [
+]},
+{"name": "root/Weak/TYPEINFO:/hnnx::/GenerateClass<...>","size": 10164,"pct": 0.141992,"children": [
+]},
+{"name": "root/Weak/TYPEINFO:/hnnx::/TypicalOp<...>","size": 9732,"pct": 0.135957,"children": [
+]}
+]}
+]},
+{"name": "root/Weak/int q_div_opt<...>","size": 8680,"pct": 0.121261,"children": [
+{"name": "root/Weak/int q_div_opt<...>/(...)","size": 8680,"pct": 0.121261,"children": [
+]}
+]},
+{"name": "root/Weak/void std::","size": 44972,"pct": 0.628265,"children": [
+{"name": "root/Weak/void std::/__1::","size": 44972,"pct": 0.628265,"children": [
+{"name": "root/Weak/void std::/__1::/__sort<...>","size": 26464,"pct": 0.369706,"children": [
+{"name": "root/Weak/void std::/__1::/__sort<...>/(...)","size": 26464,"pct": 0.369706,"children": [
+]}
+]}
+]}
+]},
+{"name": "root/Weak/int x2s_bsw3<...>","size": 10952,"pct": 0.153001,"children": [
+{"name": "root/Weak/int x2s_bsw3<...>/(...)","size": 10952,"pct": 0.153001,"children": [
+]}
+]},
+{"name": "root/Weak/int x2s_bsw4<...>","size": 7968,"pct": 0.111314,"children": [
+{"name": "root/Weak/int x2s_bsw4<...>/(...)","size": 7968,"pct": 0.111314,"children": [
+]}
+]},
+{"name": "root/Weak/int compare_opt<...>","size": 23424,"pct": 0.327236,"children": [
+{"name": "root/Weak/int compare_opt<...>/(...)","size": 23424,"pct": 0.327236,"children": [
+]}
+]},
+{"name": "root/Weak/int overwrite_output_slice<...>","size": 7284,"pct": 0.101758,"children": [
+{"name": "root/Weak/int overwrite_output_slice<...>/(...)","size": 7284,"pct": 0.101758,"children": [
+]}
+]},
+{"name": "root/Weak/void nn_debug::","size": 17236,"pct": 0.240789,"children": [
+{"name": "root/Weak/void nn_debug::/fill_tensor_info<...>","size": 17236,"pct": 0.240789,"children": [
+{"name": "root/Weak/void nn_debug::/fill_tensor_info<...>/(...)","size": 17236,"pct": 0.240789,"children": [
+]}
+]}
+]},
+{"name": "root/Weak/GraphStatus power_impl<...>","size": 12292,"pct": 0.171721,"children": [
+{"name": "root/Weak/GraphStatus power_impl<...>/(...)","size": 12292,"pct": 0.171721,"children": [
+]}
+]},
+{"name": "root/Weak/int pad_val_impl<...>","size": 7596,"pct": 0.106117,"children": [
+{"name": "root/Weak/int pad_val_impl<...>/(...)","size": 7596,"pct": 0.106117,"children": [
+]}
+]},
+{"name": "root/Weak/int mirrorpad_ref_impl<...>","size": 9472,"pct": 0.132325,"children": [
+{"name": "root/Weak/int mirrorpad_ref_impl<...>/(...)","size": 9472,"pct": 0.132325,"children": [
+]}
+]},
+{"name": "root/Weak/void prelu_16b_by_tile<...>","size": 9652,"pct": 0.134840,"children": [
+{"name": "root/Weak/void prelu_16b_by_tile<...>/(...)","size": 9652,"pct": 0.134840,"children": [
+]}
+]},
+{"name": "root/Weak/void hnnx::","size": 139600,"pct": 1.950231,"children": [
+{"name": "root/Weak/void hnnx::/add_package_op<...>","size": 135520,"pct": 1.893233,"children": [
+{"name": "root/Weak/void hnnx::/add_package_op<...>/(...)","size": 135520,"pct": 1.893233,"children": [
+]}
+]}
+]},
+{"name": "root/Weak/(...)","size": 9576,"pct": 0.133778,"children": [
+]},
+{"name": "root/Weak/VTABLE:","size": 175824,"pct": 2.456285,"children": [
+{"name": "root/Weak/VTABLE:/std::","size": 13352,"pct": 0.186529,"children": [
+{"name": "root/Weak/VTABLE:/std::/__1::","size": 13352,"pct": 0.186529,"children": [
+{"name": "root/Weak/VTABLE:/std::/__1::/__function::","size": 13332,"pct": 0.186250,"children": [
+{"name": "root/Weak/VTABLE:/std::/__1::/__function::/__func<...>","size": 13332,"pct": 0.186250,"children": [
+]}
+]}
+]}
+]},
+{"name": "root/Weak/VTABLE:/hnnx::","size": 151972,"pct": 2.123069,"children": [
+{"name": "root/Weak/VTABLE:/hnnx::/TypicalOpIO<...>","size": 48024,"pct": 0.670902,"children": [
+]},
+{"name": "root/Weak/VTABLE:/hnnx::/PackageOpStorageDerived<...>","size": 16940,"pct": 0.236654,"children": [
+]},
+{"name": "root/Weak/VTABLE:/hnnx::/GenerateClass<...>","size": 23716,"pct": 0.331316,"children": [
+]},
+{"name": "root/Weak/VTABLE:/hnnx::/TypicalOp<...>","size": 56160,"pct": 0.784563,"children": [
+]}
+]}
+]},
+{"name": "root/Weak/int x2s_bsw2<...>","size": 7840,"pct": 0.109526,"children": [
+{"name": "root/Weak/int x2s_bsw2<...>/(...)","size": 7840,"pct": 0.109526,"children": [
+]}
+]}
+]},
+{"name": "root/Text","size": 2610420,"pct": 36.467920,"children": [
+{"name": "root/Text/std::","size": 301696,"pct": 4.214734,"children": [
+{"name": "root/Text/std::/__1::","size": 301696,"pct": 4.214734,"children": [
+{"name": "root/Text/std::/__1::/__function::","size": 12556,"pct": 0.175409,"children": [
+{"name": "root/Text/std::/__1::/__function::/__func<...>","size": 12112,"pct": 0.169206,"children": [
+{"name": "root/Text/std::/__1::/__function::/__func<...>/::","size": 12112,"pct": 0.169206,"children": [
+]}
+]}
+]},
+{"name": "root/Text/std::/__1::/function<...>","size": 117384,"pct": 1.639870,"children": [
+{"name": "root/Text/std::/__1::/function<...>/ constraint_lib::","size": 117384,"pct": 1.639870,"children": [
+{"name": "root/Text/std::/__1::/function<...>/ constraint_lib::/Constraint::","size": 117384,"pct": 1.639870,"children": [
+{"name": "root/Text/std::/__1::/function<...>/ constraint_lib::/Constraint::/constraint<...>","size": 117384,"pct": 1.639870,"children": [
+{"name": "root/Text/std::/__1::/function<...>/ constraint_lib::/Constraint::/constraint<...>/(...)","size": 117384,"pct": 1.639870,"children": [
+{"name": "root/Text/std::/__1::/function<...>/ constraint_lib::/Constraint::/constraint<...>/(...)/function<bool (constraint_lib::Constraint const&)>","size": 117384,"pct": 1.639870,"children": [
+]}
+]}
+]}
+]}
+]}
+]},
+{"name": "root/Text/std::/__1::/unique_ptr<...>","size": 168992,"pct": 2.360841,"children": [
+{"name": "root/Text/std::/__1::/unique_ptr<...>/ MatchBuilder::","size": 168992,"pct": 2.360841,"children": [
+{"name": "root/Text/std::/__1::/unique_ptr<...>/ MatchBuilder::/matcher<...>","size": 168992,"pct": 2.360841,"children": [
+{"name": "root/Text/std::/__1::/unique_ptr<...>/ MatchBuilder::/matcher<...>/(...)","size": 168992,"pct": 2.360841,"children": [
+{"name": "root/Text/std::/__1::/unique_ptr<...>/ MatchBuilder::/matcher<...>/(...)/unique_ptr<hnnx::MatchOpBase, std::__1::default_delete<hnnx::MatchOpBase> >","size": 168992,"pct": 2.360841,"children": [
+]}
+]}
+]}
+]}
+]}
+]}
+]},
+{"name": "root/Text/void std::","size": 12480,"pct": 0.174347,"children": [
+{"name": "root/Text/void std::/__1::","size": 12480,"pct": 0.174347,"children": [
+{"name": "root/Text/void std::/__1::/__sort<...>","size": 12248,"pct": 0.171106,"children": [
+{"name": "root/Text/void std::/__1::/__sort<...>/(...)","size": 12248,"pct": 0.171106,"children": [
+]}
+]}
+]}
+]},
+{"name": "root/Text/nn_debug::","size": 8612,"pct": 0.120311,"children": [
+{"name": "root/Text/nn_debug::/RTTraceRecorder::","size": 8612,"pct": 0.120311,"children": [
+]}
+]},
+{"name": "root/Text/SpillFillProcess::","size": 7692,"pct": 0.107458,"children": [
+]},
+{"name": "root/Text/Replacement::","size": 12164,"pct": 0.169933,"children": [
+]},
+{"name": "root/Text/_GLOBAL__sub_I_memory_format_convert.cc","size": 9516,"pct": 0.132940,"children": [
+]},
+{"name": "root/Text/sched::","size": 19368,"pct": 0.270574,"children": [
+]},
+{"name": "root/Text/OpRef Replacement::","size": 951656,"pct": 13.294763,"children": [
+{"name": "root/Text/OpRef Replacement::/replacement<...>","size": 951616,"pct": 13.294204,"children": [
+{"name": "root/Text/OpRef Replacement::/replacement<...>/(...)","size": 951616,"pct": 13.294204,"children": [
+{"name": "root/Text/OpRef Replacement::/replacement<...>/(...)/replacement<hnnx::Unique_Identifier<1328, (char)97, (char)103, (char)111, (char)110, (char)47, (char)111, (char)112, (char)115, (char)47, (char)115, (char)114, (char)99, (char)47, (char)116, (char)114, (char)97, (char)110, (char)115, (char)112, (char)111, ","size": 9276,"pct": 0.129587,"children": [
+{"name": "root/Text/OpRef Replacement::/replacement<...>/(...)/replacement<hnnx::Unique_Identifier<1328, (char)97, (char)103, (char)111, (char)110, (char)47, (char)111, (char)112, (char)115, (char)47, (char)115, (char)114, (char)99, (char)47, (char)116, (char)114, (char)97, (char)110, (char)115, (char)112, (char)111, /(OpDef const&)","size": 9276,"pct": 0.129587,"children": [
+]}
+]},
+{"name": "root/Text/OpRef Replacement::/replacement<...>/(...)/replacement<hnnx::Unique_Identifier<523, (char)104, (char)101, (char)120, (char)97, (char)103, (char)111, (char)110, (char)47, (char)111, (char)112, (char)115, (char)47, (char)115, (char)114, (char)99, (char)47, (char)110, (char)111, (char)114, (char)109, ","size": 38468,"pct": 0.537403,"children": [
+{"name": "root/Text/OpRef Replacement::/replacement<...>/(...)/replacement<hnnx::Unique_Identifier<523, (char)104, (char)101, (char)120, (char)97, (char)103, (char)111, (char)110, (char)47, (char)111, (char)112, (char)115, (char)47, (char)115, (char)114, (char)99, (char)47, (char)110, (char)111, (char)114, (char)109, /(OpDef const&)","size": 38468,"pct": 0.537403,"children": [
+]}
+]},
+{"name": "root/Text/OpRef Replacement::/replacement<...>/(...)/replacement<hnnx::Unique_Identifier<877, (char)97, (char)103, (char)111, (char)110, (char)47, (char)111, (char)112, (char)115, (char)47, (char)115, (char)114, (char)99, (char)47, (char)116, (char)114, (char)97, (char)110, (char)115, (char)112, (char)111, (","size": 11012,"pct": 0.153839,"children": [
+{"name": "root/Text/OpRef Replacement::/replacement<...>/(...)/replacement<hnnx::Unique_Identifier<877, (char)97, (char)103, (char)111, (char)110, (char)47, (char)111, (char)112, (char)115, (char)47, (char)115, (char)114, (char)99, (char)47, (char)116, (char)114, (char)97, (char)110, (char)115, (char)112, (char)111, (/(OpDef const&)","size": 11012,"pct": 0.153839,"children": [
+]}
+]},
+{"name": "root/Text/OpRef Replacement::/replacement<...>/(...)/replacement<hnnx::Unique_Identifier<1140, (char)97, (char)103, (char)111, (char)110, (char)47, (char)111, (char)112, (char)115, (char)47, (char)115, (char)114, (char)99, (char)47, (char)116, (char)114, (char)97, (char)110, (char)115, (char)112, (char)111, ","size": 7404,"pct": 0.103435,"children": [
+{"name": "root/Text/OpRef Replacement::/replacement<...>/(...)/replacement<hnnx::Unique_Identifier<1140, (char)97, (char)103, (char)111, (char)110, (char)47, (char)111, (char)112, (char)115, (char)47, (char)115, (char)114, (char)99, (char)47, (char)116, (char)114, (char)97, (char)110, (char)115, (char)112, (char)111, /(OpDef const&)","size": 7404,"pct": 0.103435,"children": [
+]}
+]},
+{"name": "root/Text/OpRef Replacement::/replacement<...>/(...)/replacement<hnnx::Unique_Identifier<2037, (char)0, (char)0, (char)0, (char)0, (char)0, (char)104, (char)101, (char)120, (char)97, (char)103, (char)111, (char)110, (char)47, (char)111, (char)112, (char)115, (char)47, (char)115, (char)114, (char)99, (char)47","size": 16884,"pct": 0.235872,"children": [
+{"name": "root/Text/OpRef Replacement::/replacement<...>/(...)/replacement<hnnx::Unique_Identifier<2037, (char)0, (char)0, (char)0, (char)0, (char)0, (char)104, (char)101, (char)120, (char)97, (char)103, (char)111, (char)110, (char)47, (char)111, (char)112, (char)115, (char)47, (char)115, (char)114, (char)99, (char)47/(OpDef const&)","size": 16884,"pct": 0.235872,"children": [
+]}
+]},
+{"name": "root/Text/OpRef Replacement::/replacement<...>/(...)/replacement<hnnx::Unique_Identifier<101, (char)0, (char)104, (char)101, (char)120, (char)97, (char)103, (char)111, (char)110, (char)47, (char)111, (char)112, (char)115, (char)47, (char)115, (char)114, (char)99, (char)47, (char)103, (char)114, (char)111, (c","size": 11120,"pct": 0.155348,"children": [
+{"name": "root/Text/OpRef Replacement::/replacement<...>/(...)/replacement<hnnx::Unique_Identifier<101, (char)0, (char)104, (char)101, (char)120, (char)97, (char)103, (char)111, (char)110, (char)47, (char)111, (char)112, (char)115, (char)47, (char)115, (char)114, (char)99, (char)47, (char)103, (char)114, (char)111, (c/(OpDef const&)","size": 11120,"pct": 0.155348,"children": [
+]}
+]},
+{"name": "root/Text/OpRef Replacement::/replacement<...>/(...)/replacement<hnnx::Unique_Identifier<476, (char)105, (char)115, (char)95, (char)97, (char)108, (char)105, (char)103, (char)110, (char)101, (char)100, (char)95, (char)98, (char)98, (char)111, (char)120, (char)95, (char)116, (char)114, (char)97, (char)110, (c","size": 8856,"pct": 0.123720,"children": [
+{"name": "root/Text/OpRef Replacement::/replacement<...>/(...)/replacement<hnnx::Unique_Identifier<476, (char)105, (char)115, (char)95, (char)97, (char)108, (char)105, (char)103, (char)110, (char)101, (char)100, (char)95, (char)98, (char)98, (char)111, (char)120, (char)95, (char)116, (char)114, (char)97, (char)110, (c/(OpDef const&)","size": 8856,"pct": 0.123720,"children": [
+]}
+]},
+{"name": "root/Text/OpRef Replacement::/replacement<...>/(...)/replacement<hnnx::Unique_Identifier<1187, (char)97, (char)103, (char)111, (char)110, (char)47, (char)111, (char)112, (char)115, (char)47, (char)115, (char)114, (char)99, (char)47, (char)116, (char)114, (char)97, (char)110, (char)115, (char)112, (char)111, ","size": 7404,"pct": 0.103435,"children": [
+{"name": "root/Text/OpRef Replacement::/replacement<...>/(...)/replacement<hnnx::Unique_Identifier<1187, (char)97, (char)103, (char)111, (char)110, (char)47, (char)111, (char)112, (char)115, (char)47, (char)115, (char)114, (char)99, (char)47, (char)116, (char)114, (char)97, (char)110, (char)115, (char)112, (char)111, /(OpDef const&)","size": 7404,"pct": 0.103435,"children": [
+]}
+]},
+{"name": "root/Text/OpRef Replacement::/replacement<...>/(...)/replacement<hnnx::Unique_Identifier<370, (char)0, (char)0, (char)0, (char)0, (char)0, (char)0, (char)0, (char)104, (char)101, (char)120, (char)97, (char)103, (char)111, (char)110, (char)47, (char)111, (char)112, (char)115, (char)47, (char)115, (char)114, (","size": 8240,"pct": 0.115114,"children": [
+{"name": "root/Text/OpRef Replacement::/replacement<...>/(...)/replacement<hnnx::Unique_Identifier<370, (char)0, (char)0, (char)0, (char)0, (char)0, (char)0, (char)0, (char)104, (char)101, (char)120, (char)97, (char)103, (char)111, (char)110, (char)47, (char)111, (char)112, (char)115, (char)47, (char)115, (char)114, (/(OpDef const&)","size": 8240,"pct": 0.115114,"children": [
+]}
+]}
+]}
+]}
+]},
+{"name": "root/Text/optim_extfunc::","size": 10136,"pct": 0.141601,"children": [
+]},
+{"name": "root/Text/float hnnx::","size": 8092,"pct": 0.113046,"children": [
+{"name": "root/Text/float hnnx::/get_cost<...>","size": 8092,"pct": 0.113046,"children": [
+{"name": "root/Text/float hnnx::/get_cost<...>/(...)","size": 8092,"pct": 0.113046,"children": [
+]}
+]}
+]},
+{"name": "root/Text/Graph::","size": 102972,"pct": 1.438533,"children": [
+{"name": "root/Text/Graph::/insert_spill_fill(...)","size": 11808,"pct": 0.164959,"children": [
+{"name": "root/Text/Graph::/insert_spill_fill(...)/insert_spill_fill()","size": 11808,"pct": 0.164959,"children": [
+]}
+]},
+{"name": "root/Text/Graph::/do_prepare(...)","size": 7336,"pct": 0.102485,"children": [
+{"name": "root/Text/Graph::/do_prepare(...)/do_prepare()","size": 7336,"pct": 0.102485,"children": [
+]}
+]},
+{"name": "root/Text/Graph::/schedule_for_alloc(...)","size": 15136,"pct": 0.211452,"children": [
+{"name": "root/Text/Graph::/schedule_for_alloc(...)/schedule_for_alloc(std::__1::map<unsigned long long, std::__1::unique_ptr<Op, hnnx::DeleterWithDisable<Op> >, std::__1::less<unsigned long long>, std::__1::allocator<std::__1::pair<unsigned long long const, std::__1::unique_ptr<Op, hnnx::DeleterWithDisable","size": 15136,"pct": 0.211452,"children": [
+]}
+]}
+]},
+{"name": "root/Text/hnnx::","size": 568432,"pct": 7.941072,"children": [
+{"name": "root/Text/hnnx::/GenerateClass<...>","size": 77700,"pct": 1.085479,"children": [
+{"name": "root/Text/hnnx::/GenerateClass<...>/::","size": 77700,"pct": 1.085479,"children": [
+{"name": "root/Text/hnnx::/GenerateClass<...>/::/cost(...)","size": 26832,"pct": 0.374847,"children": [
+]},
+{"name": "root/Text/hnnx::/GenerateClass<...>/::/valid_construct(...)","size": 31260,"pct": 0.436706,"children": [
+]},
+{"name": "root/Text/hnnx::/GenerateClass<...>/::/generate(...)","size": 18576,"pct": 0.259509,"children": [
+]}
+]}
+]},
+{"name": "root/Text/hnnx::/fail_lookup(...)","size": 9600,"pct": 0.134113,"children": [
+{"name": "root/Text/hnnx::/fail_lookup(...)/fail_lookup(hnnx::string_tag_t)","size": 9600,"pct": 0.134113,"children": [
+]}
+]},
+{"name": "root/Text/hnnx::/PackageOpStorageDerived<...>","size": 217308,"pct": 3.035822,"children": [
+{"name": "root/Text/hnnx::/PackageOpStorageDerived<...>/::","size": 217308,"pct": 3.035822,"children": [
+{"name": "root/Text/hnnx::/PackageOpStorageDerived<...>/::/~PackageOpStorageDerived(...)","size": 25800,"pct": 0.360429,"children": [
+]},
+{"name": "root/Text/hnnx::/PackageOpStorageDerived<...>/::/make_op_wrapper(...)","size": 191508,"pct": 2.675393,"children": [
+]}
+]}
+]},
+{"name": "root/Text/hnnx::/deserialize_op_using_constructor<...>","size": 54696,"pct": 0.764110,"children": [
+{"name": "root/Text/hnnx::/deserialize_op_using_constructor<...>/::","size": 54696,"pct": 0.764110,"children": [
+{"name": "root/Text/hnnx::/deserialize_op_using_constructor<...>/::/deserialize(...)","size": 54696,"pct": 0.764110,"children": [
+]}
+]}
+]},
+{"name": "root/Text/hnnx::/TypicalOp<...>","size": 165100,"pct": 2.306469,"children": [
+{"name": "root/Text/hnnx::/TypicalOp<...>/::","size": 164908,"pct": 2.303787,"children": [
+{"name": "root/Text/hnnx::/TypicalOp<...>/::/prepare(...)","size": 33236,"pct": 0.464311,"children": [
+]},
+{"name": "root/Text/hnnx::/TypicalOp<...>/::/execute(...)","size": 115456,"pct": 1.612936,"children": [
+]},
+{"name": "root/Text/hnnx::/TypicalOp<...>/::/~TypicalOp(...)","size": 16216,"pct": 0.226540,"children": [
+]}
+]}
+]}
+]},
+{"name": "root/Text/stcut::","size": 39784,"pct": 0.555788,"children": [
+{"name": "root/Text/stcut::/STGraph::","size": 39660,"pct": 0.554056,"children": [
+]}
+]},
+{"name": "root/Text/_GLOBAL__sub_I_dwconv.cc","size": 7336,"pct": 0.102485,"children": [
+]},
+{"name": "root/Text/unsigned int std::","size": 7204,"pct": 0.100641,"children": [
+{"name": "root/Text/unsigned int std::/__1::","size": 7204,"pct": 0.100641,"children": [
+]}
+]},
+{"name": "root/Text/_GLOBAL__sub_I_conv.cc","size": 13368,"pct": 0.186753,"children": [
+]},
+{"name": "root/Text/_GLOBAL__sub_I_conv_opt.cc","size": 18224,"pct": 0.254592,"children": [
+]},
+{"name": "root/Text/fa::","size": 25412,"pct": 0.355009,"children": [
+{"name": "root/Text/fa::/FancyAllocator::","size": 22376,"pct": 0.312596,"children": [
+{"name": "root/Text/fa::/FancyAllocator::/allocate_tcm_blocks(...)","size": 9684,"pct": 0.135287,"children": [
+{"name": "root/Text/fa::/FancyAllocator::/allocate_tcm_blocks(...)/allocate_tcm_blocks(std::__1::function<Op const* (unsigned long long)> const&, std::__1::vector<Op*, std::__1::allocator<Op*> > const&)","size": 9684,"pct": 0.135287,"children": [
+]}
+]}
+]}
+]},
+{"name": "root/Text/_GLOBAL__sub_I_pad.cc","size": 20208,"pct": 0.282308,"children": [
+]}
+]},
+{"name": "root/Data","size": 50072,"pct": 0.699513,"children": [
+{"name": "root/Data/TYPEINFO:","size": 11116,"pct": 0.155292,"children": [
+{"name": "root/Data/TYPEINFO:/hnnx::","size": 9572,"pct": 0.133722,"children": [
+]}
+]},
+{"name": "root/Data/VTABLE:","size": 34836,"pct": 0.486664,"children": [
+{"name": "root/Data/VTABLE:/hnnx::","size": 28220,"pct": 0.394237,"children": [
+{"name": "root/Data/VTABLE:/hnnx::/GenerateClass<...>","size": 7224,"pct": 0.100920,"children": [
+]},
+{"name": "root/Data/VTABLE:/hnnx::/TypicalOp<...>","size": 15048,"pct": 0.210223,"children": [
+]}
+]}
+]}
+]}
+]}
